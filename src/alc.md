@@ -21,3 +21,9 @@
     ```sh
     sudo apt-get install silversearcher-ag
     ```
+- indicator-sysmonitor CPU/Memery/GPU状态栏显示
+    ```sh
+    sudo add-apt-repository ppa:fossfreedom/indicator-sysmonitor
+    sudo apt-get update
+    sudo apt-get install indicator-sysmonitor
+    ```
